@@ -1,10 +1,4 @@
-![screenshot](.meta/promo.png)
-
 # Pegasus Grid theme for Retroid Pocket 2
-
-## Installation
-
-just [download](https://github.com/DFOXpro/rp2-pegasus-theme-grid/archive/master.zip) and extract it to your [theme directory](http://pegasus-frontend.org/docs/user-guide/installing-themes). You can then select the theme in the settings menu of Pegasus.
 
 ## Features extras to default theme
 * Customizable theme
