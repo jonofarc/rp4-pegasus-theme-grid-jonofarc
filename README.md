@@ -1,8 +1,8 @@
-# Pegasus Grid theme for Retroid Pocket 2
+# Pegasus Grid theme for Retroid Pocket 4
 
 ## Features extras to default theme
 * Customizable theme
-* Various colours to fit your rp2
+* Various colours to fit your rp4
 * Favorites/All apps/Last plated lists to enable
 * Android apps toggleable on the fly (if settings > sources > Adroid apps is enable)
 * Game video can be play/paused with select and set in autoplay mode
